@@ -1,6 +1,6 @@
 # 🎬🍿 Netflix Originals Analysed Using SQL
 
-This project analyzes Netflix Originals using MySQL to uncover insights like average IMDb scores by genre, top-rated shows, and genre popularity. It involves database creation, data import from CSV files, and writing SQL queries to answer business questions. 
+This project analyses Netflix Originals using MySQL to uncover insights like average IMDb scores by genre, top-rated shows, and genre popularity. It involves database creation, data import from CSV files, and writing SQL queries to answer business questions. 
 
 It was completed as part of my training project for [**SQL For Data Analysis Certification**]() by Internshala.
 
